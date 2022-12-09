@@ -1,0 +1,19 @@
+table{
+	border-style:outset;
+	background-color: 
+	padding:10px;
+	border-color: blue;
+	border width: 1em;
+}
+
+#C1{
+	background-color: orange;
+	font-family:Cambria;
+	text-align: center;
+	color: darkblue;
+}
+
+body {
+	background-repeat:no-repeat;
+	background-size: 96%;
+}
